@@ -1,1 +1,4 @@
 # mcts-java
+- MCTS
+- UCT
+
